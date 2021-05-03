@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/organizacion-sesion-3-carolina-martinez/sesion5-travis/issues"
   },
-  "homepage": "https://github.com/organizacion-sesion-3-carolina-martinez/sesion5-travis#readme"
+  "homepage": "https://github.com/organizacion-sesion-3-carolina-martinez/sesion5-travis#readme",
+  "dependencies": {
+    "mocha": "^8.3.2",
+    "should": "^13.2.3"
+  }
 }
