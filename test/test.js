@@ -8,6 +8,6 @@ var operaciones = require('../operations.js');
 // Test
 it('comprobar función checkPar', function() {
 	assert.equal(operaciones.checkPar(2), true);
-	assert.equal(operaciones.suma(3), false);
-	assert.equal(operaciones.suma(4), true);
+	assert.equal(operaciones.checkPar(3), false);
+	assert.equal(operaciones.checkPar(4), true);
 });
