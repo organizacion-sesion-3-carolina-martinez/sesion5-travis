@@ -1,0 +1,19 @@
+{
+  "name": "sesion5-travis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/organizacion-sesion-3-carolina-martinez/sesion5-travis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/organizacion-sesion-3-carolina-martinez/sesion5-travis/issues"
+  },
+  "homepage": "https://github.com/organizacion-sesion-3-carolina-martinez/sesion5-travis#readme"
+}
